@@ -1,6 +1,6 @@
 # Data-Analysis-With-Python-Pandas-Kaggle-Dataset Data Analysis With Python Pandas | San Francisco City Employee Salary  DataSet
 Dataset Link: https://www.kaggle.com/datasets/kaggle/sf-salaries
-To perform data analysis, I have answered 21 questions that we are going to solve one by one. Questions are as follows.
+To perform data analysis, I have answered 21 questions. Questions are as follows.
 1.  Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
